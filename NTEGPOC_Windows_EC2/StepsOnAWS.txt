@@ -37,3 +37,9 @@
 15.	In Alarms, select Ignore alarm configuration.
 
 16.	Choose Create deployment group, and continue to the next step.
+
+17.	On the Deployment group details page, choose Create deployment.
+
+18.	In Deployment group, choose CodeDeployGitHubDemo-DepGrp.
+
+19.	In Revision type, choose S3 and Zip file and deploy.
