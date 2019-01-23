@@ -29,9 +29,7 @@ namespace ConsoleApplication_KMS
     class Program
     {
         //Personal Account
-        static readonly string accessKey = "AKIAJSVTB2FWAKHRLSBA";
-        static readonly string secretKey = "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";
-
+     
         //static readonly string accessKey = string.Empty;
         //static readonly string secretKey = string.Empty;
 
